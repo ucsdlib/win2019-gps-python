@@ -5,3 +5,4 @@
 | Feb. 4   | Lecture                        | Loops, Lists, Functions, Conditionals |
 |          | Quiz & Assignment 2             | Posted in TritonEd                 |
 | Feb. 11  | Lecture                        |    Review - TBD notebook                           |
+|          | Quiz & Assignment 3             | Posted in TritonEd                 |
